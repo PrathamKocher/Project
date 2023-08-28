@@ -44,4 +44,5 @@ def main():
         print("Invalid input. Please enter a valid sorting parameter.")
 
 if __name__ == "__main__":
-    main()
+    main() //object
+
